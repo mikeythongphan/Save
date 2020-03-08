@@ -1,0 +1,11 @@
+Installation guide
+
+Disconnect the Internet first
+Run the Cijn file, change the Prefix to “CS70P-“
+Click the Generate button
+Click the Generate Activation Code button
+Click the Prefix value to ” CS70P- “Change
+Enter the serial number in CodeSmith Generator and select Offline Activate to get Manchine code
+Enter machine value in Machine Hash code
+Click Generate button
+Activation value Add code to CodeSmith Generator.
