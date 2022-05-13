@@ -9,3 +9,4 @@ Enter the serial number in CodeSmith Generator and select Offline Activate to ge
 Enter machine value in Machine Hash code
 Click Generate button
 Activation value Add code to CodeSmith Generator.
+https://drive.google.com/file/d/1Ter83DEqK1rL8Vqtxg3npAPSSzWpa1fJ/view?usp=sharing
