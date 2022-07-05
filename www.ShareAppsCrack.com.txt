@@ -10,3 +10,7 @@ Enter machine value in Machine Hash code
 Click Generate button
 Activation value Add code to CodeSmith Generator.
 https://drive.google.com/file/d/1Ter83DEqK1rL8Vqtxg3npAPSSzWpa1fJ/view?usp=sharing
+https://github.com/kinfei/react-intl-starter/blob/main/src/components/TranslationWrapper/index.js
+https://github.com/nekomotsu9029/Multiple-Language-With-React/tree/master/src
+https://github.com/ararage/react-context/blob/master/src/components/Button.js
+https://github.com/hcoz/react-context-multilang/blob/master/src/components/Explore.js
