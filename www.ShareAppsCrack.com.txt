@@ -14,3 +14,4 @@ https://github.com/kinfei/react-intl-starter/blob/main/src/components/Translatio
 https://github.com/nekomotsu9029/Multiple-Language-With-React/tree/master/src
 https://github.com/ararage/react-context/blob/master/src/components/Button.js
 https://github.com/hcoz/react-context-multilang/blob/master/src/components/Explore.js
+https://medium.com/geekculture/net-core-dependency-injection-in-asp-net-core-7fdf5e1cc200
